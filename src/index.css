@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@300&display=swap');
+
 body {
   margin: 0;
   padding: 0;
   /*font-family: sans-serif;*/
-  font-family: 'Atma', cursive;
+  font-family: 'Atma', cursive !important;
 }
 
 #root {
