@@ -78,3 +78,8 @@ We want you to build a web application with the following requirements:
 
 If you have any questions, please do not hesitate to ask us anytime.
 Wish you luck!! :)
+
+## NOTE**
+- This app use 'Bootstrap' and use 'axios' for get data from API.
+- The formula for calculate happiness, I use calculated data and round up when has decimal.
+- I expand the height of card (that show in my list) when happiness over 5.
